@@ -12,6 +12,10 @@ A modern, fast, and feature-rich starter template built with Vite, React, and Ty
 - 🔍 **ESLint** for code linting
 - 🚀 **Production Ready** build setup
 
+## 📸 Screenshot
+
+![Screenshot](screenshot.png)
+
 ## 🛠️ Prerequisites
 
 Before you begin, ensure you have the following installed:
