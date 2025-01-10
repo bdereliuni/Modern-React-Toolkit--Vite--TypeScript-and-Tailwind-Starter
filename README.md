@@ -2,7 +2,7 @@
 
 Bu proje, React ve Tailwind CSS kullanarak prompt tabanlı görsel oluşturma imkânı sunan basit bir web uygulamasını içerir.
 
-![AI Image Generator Ekran Görüntüsü](./docs/screenshot.png)
+![AI Image Generator Ekran Görüntüsü](screenshot.png)
 
 ## Kurulum ve Çalıştırma
 
